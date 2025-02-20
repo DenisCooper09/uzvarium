@@ -1,2 +1,2 @@
-# uzvarium
-The element of uzvar.
+# Uzvarium
+An element of uzvar.
